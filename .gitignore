@@ -108,3 +108,7 @@ venv.bak/
 /popup-dictionary/
 popup_wikipedia/cache.sqlite
 /dist/
+
+# debug files
+runanki.py
+text.txt
