@@ -38,7 +38,7 @@ from aqt import mw
 from .libaddon.platform import MODULE_ADDON
 
 STYLES = ["jquery.qtip.css", "wiki_popup.css"]
-JS_SCRIPTS = ["pcs.js", "jquery.qtip.js", "imagesloaded.pkgd.js", "wiki_popup.js"]
+JS_SCRIPTS = ["jquery-migrate-3.0.0.min.js", "pcs.js", "jquery.qtip.js", "imagesloaded.pkgd.js", "wiki_popup.js"]
 EXTENSION_PATHS = []
 EXTENSION_HTML: str
 
